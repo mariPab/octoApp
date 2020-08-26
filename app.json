@@ -1,0 +1,12 @@
+{
+  "name": "octoApp",
+  "displayName": "octoApp",
+  "expo": {
+    "name": "octoApp",
+    "slug": "octoApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
